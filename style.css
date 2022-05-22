@@ -1,0 +1,29 @@
+.heading {
+    font-size: 23;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px black;
+
+}
+.note {
+    font-size: 10;
+    color: black;
+}
+.f {
+    width : 100%;
+    position: fixed;
+    bottom:0;
+    text-align: center;
+    background-color: #00ACFC;
+    height: 30;
+    border-radius:10px;
+    padding-top: 5px;   
+}
+.f:hover{
+    color: pink;
+}
+
+canvas {
+    border: 1px solid;
+    box-shadow: 5px 5px 5px black;
+}
